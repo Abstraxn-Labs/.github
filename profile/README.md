@@ -50,11 +50,14 @@ Bundler, Paymaster, Relayer, and a catalog of 50+ MCP integrations for data, bro
 
 ## SDKs
 
-```
-@abstraxn/agent-kit       # primary entry point
-@abstraxn/server-signer   # server-side signing
-@abstraxn/signer-react    # React signer bindings
-```
+| Package | Description |
+| :--- | :--- |
+| [`@abstraxn/agent-kit`](https://www.npmjs.com/package/@abstraxn/agent-kit) | Agent Kit: identity, wallets, x402 payments, and MCP tools |
+| [`@abstraxn/server-signer`](https://www.npmjs.com/package/@abstraxn/server-signer) | Server-side wallet signing for backend integrations |
+| [`@abstraxn/signer-react`](https://www.npmjs.com/package/@abstraxn/signer-react) | React components and hooks for embedded wallets |
+| [`@abstraxn/relayer`](https://www.npmjs.com/package/@abstraxn/relayer) | EVM relayer for gasless and relayed transactions |
+| [`@abstraxn/solana-relayer`](https://www.npmjs.com/package/@abstraxn/solana-relayer) | Solana transaction build, sign, and relay |
+| [`@abstraxn/cli`](https://www.npmjs.com/package/@abstraxn/cli) | CLI for Agent Kit MCP, agents, and Web3 tooling |
 
 ---
 
