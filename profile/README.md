@@ -2,7 +2,7 @@
 
 # Abstraxn
 
-**Identity, wallets, payments, and policy. One SDK for autonomous agents.**
+**AI agent infrastructure: identity, wallets, payments and KYI policy controls for businesses.**
 
 [![npm version](https://img.shields.io/npm/v/@abstraxn/agent-kit.svg?color=3ECF8E&label=%40abstraxn%2Fagent-kit)](https://www.npmjs.com/package/@abstraxn/agent-kit)
 [![License: MIT](https://img.shields.io/badge/license-MIT-3ECF8E.svg)](https://opensource.org/licenses/MIT)
@@ -11,15 +11,17 @@
 [![Status](https://img.shields.io/badge/status-live-d97706)](https://abstraxn.com/)
 [![Follow on X](https://img.shields.io/twitter/follow/AbstraxnX?style=social)](https://x.com/AbstraxnX)
 
-[Website](https://abstraxn.com/) · [Dashboard](https://dashboard.abstraxn.com/) · [Docs](https://docs.abstraxn.com/) · [Demo](https://demo.abstraxn.com/) · [Agent Hub](https://agent.abstraxn.com/) · [Blogs](https://abstraxn.com/blogs)
+[Website](https://abstraxn.com/) · [Docs](https://docs.abstraxn.com/) · [Start free](https://dashboard.abstraxn.com/) · [Demo](https://demo.abstraxn.com/) · [Agent Hub](https://agent.abstraxn.com/) · [Blogs](https://abstraxn.com/blogs)
+
+[X](https://x.com/AbstraxnX) · [LinkedIn](https://www.linkedin.com/company/abstraxn) · [YouTube](https://www.youtube.com/@AbstraxnYT)
 
 </div>
 
 ---
 
-Abstraxn is a modular, chain-agnostic infrastructure layer that lets AI agents hold an identity, control a wallet, pay for services, and operate inside enforceable guardrails. Infrastructure, not application. Chain-agnostic, token-agnostic, custodian-neutral.
+Abstraxn is AI agent infrastructure: identity, wallets, payments and KYI policy controls so businesses can let agents act and spend safely.
 
-Agent frameworks solved reasoning. They did not solve action. Abstraxn is the layer beneath the agent that supplies identity, wallet, payments, and policy through a single SDK and dashboard.
+Agent frameworks solved reasoning. They did not solve action. Abstraxn is the layer beneath the agent that supplies identity, wallets, payments, and KYI policy controls through a single SDK and dashboard.
 
 ---
 
@@ -30,7 +32,7 @@ Agent frameworks solved reasoning. They did not solve action. Abstraxn is the la
 | **Identity** | ERC-8004 | Live |
 | **Wallet** | ERC-4337, EIP-7702 (Abstraxn WaaS) | Live |
 | **Payments** | x402, MPP | Live |
-| **Policy** | Enforcement at the signing layer | Live (core controls); broader guardrails in development |
+| **KYI policy** | Enforcement at the signing layer | Live (core controls); broader guardrails in development |
 
 **Identity** gives agents a resolvable, on-chain identity counterparties can verify before transacting.
 
@@ -38,7 +40,7 @@ Agent frameworks solved reasoning. They did not solve action. Abstraxn is the la
 
 **Payments** covers HTTP-native machine payments via x402 across 50+ pre-integrated services, plus MPP settlement. USDC is the best-supported path, not a hardcoded default.
 
-**Policy** enforces address allowlists, denylists, and per-transaction limits at signing time.
+**KYI policy** enforces address allowlists, denylists, and per-transaction limits at signing time.
 
 ---
 
@@ -65,9 +67,9 @@ Bundler, Paymaster, Relayer, and a catalog of 50+ MCP integrations for data, bro
 
 - Read the [Getting Started guide](https://docs.abstraxn.com/guides/getting-started)
 - Explore the [Agent Kit overview](https://docs.abstraxn.com/guides/ai/agent-kit-overview)
-- [Start a 30-day free trial](https://abstraxn.com/) or open the [Dashboard](https://dashboard.abstraxn.com/)
+- [Start free](https://dashboard.abstraxn.com/) on the dashboard
 - Try the [demo](https://demo.abstraxn.com/) or manage agents in [Agent Hub](https://agent.abstraxn.com/)
-- Follow [@AbstraxnX](https://x.com/AbstraxnX) · [LinkedIn](https://www.linkedin.com/company/102879467/) · [Blog](https://abstraxn.com/blogs)
+- Follow [@AbstraxnX](https://x.com/AbstraxnX) · [LinkedIn](https://www.linkedin.com/company/abstraxn) · [YouTube](https://www.youtube.com/@AbstraxnYT) · [Blog](https://abstraxn.com/blogs)
 
 ---
 
@@ -75,6 +77,6 @@ Bundler, Paymaster, Relayer, and a catalog of 50+ MCP integrations for data, bro
 
 **Superpowering the agent economy.**
 
-© Abstraxn · [Terms](https://abstraxn.com/terms-of-service) · [Privacy](https://abstraxn.com/privacy-policy) · [X](https://x.com/AbstraxnX) · [LinkedIn](https://www.linkedin.com/company/102879467/)
+© Abstraxn · [Terms](https://abstraxn.com/terms-of-service) · [Privacy](https://abstraxn.com/privacy-policy) · [X](https://x.com/AbstraxnX) · [LinkedIn](https://www.linkedin.com/company/abstraxn) · [YouTube](https://www.youtube.com/@AbstraxnYT)
 
 </div>
